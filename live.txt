@@ -23,21 +23,14 @@
 中天亞洲[geo-blocked],https://epg.pw/stream/b44c3bd2f33e78d308670927ebf11749a268bf175a8874584b39ca3ea43e86db.ctv
 中天亞洲[geo-blocked],https://epg.pw/stream/a9d088ac00598b278adc64978f34cc0349face9cbadbd268eda1a42c0c95d6eb.ctv
 
-民视HD,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-民视HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-民视HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-民视HD,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
-民视HD,http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
-民视HD,http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
-民视HD,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
-民视HD,http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
-民视HD,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
-民视HD,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
-民视HD,http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
-民视HD,http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
-民视HD,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156389
+台视新闻,http://50.7.238.114:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+
+民视HD,http:\\198.16.100.90:8278\ftvhd_taiwan\playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
+
+民视台湾台HD,http:\\50.7.238.114:8278\ftvtaiwan_twn\playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+民视台湾台HD,http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+
+民视HD,http:\\line.premiumpowers.net\play\live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156389
 
 民視新闻 hd,https://epg.pw/stream/7401229ebba48dab78da3eb2e6912ed1aa1f295c056697946a2949901268ad3a.m3u8
 民視新闻 hd,rtmp://9sv2.mine.nu:1935/sat/tv051
