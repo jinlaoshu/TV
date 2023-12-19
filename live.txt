@@ -48,6 +48,7 @@ CTS华视新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:1
 中视 HD,rtmp://9sv2.mine.nu:1935/sat/tv091
 
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+非凡新闻,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db0899
 
 TVBS HD,https://epg.pw/stream/55b53702b5b1adb04cdd1de3f5837efb2775cb11c105a8e90882e0da57601b5a.m3u8
 
