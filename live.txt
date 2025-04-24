@@ -1,3 +1,4 @@
+中天,#genre#
 中天新闻,http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 中天1,http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 中天新闻台2,http://150.138.77.132:10037/150.php?id=中天新闻
@@ -43,7 +44,7 @@
 中天新闻43,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
 
 
-
+中央,#genre#
 CCTV1HD,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226016/.m3u8
 
 CCTV3HD,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226021/.m3u8
