@@ -31,6 +31,19 @@
 中天新闻31,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8?txiptv&playlive
 中天新闻32,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天新闻33,http://122.117.71.103:8540/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
+中天新闻频高34,https://gdfire2.67890123.cn:8088/live/ztxw.m3u8
+中天新闻频加35,https://gdfire2.67890123.cn:8088/live/ztxw2.m3u8
+中天新闻频高36,http://122.117.71.103:8540/中天新闻.m3u8
+中天新闻频道37,http://122.117.71.103:8540/中天新闻.m3u8
+中天新闻38,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctinews/playlist.m3u8
+中天新闻39,http://122.117.109.23:8595/http/61.67.128.137:8081/hls/78/80/ch63max.m3u8
+中天新闻40,http://tlive24.uk/livehttpplay?channel_id=20163
+中天新闻斯特41,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
+中天新闻42,http://tlive24.uk/livehttpplay?channel_id=20163
+中天新闻43,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
+
+
+
 CCTV1HD,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226016/.m3u8
 
 CCTV3HD,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226021/.m3u8
