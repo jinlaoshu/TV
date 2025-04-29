@@ -1,4 +1,5 @@
 中天,#genre#
+中天新闻111, http://156.253.12.5:932/tslive/IPTV.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E
 中天新闻,http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 中天1,http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 中天新闻台2,http://150.138.77.132:10037/150.php?id=中天新闻
